@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Desktop\\LAMA\\LAMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F64EE3E-CC64-4134-80A7-790F6406F788}|LAMA\\LAMA.csproj|c:\\users\\andre\\onedrive\\desktop\\lama\\lama\\lama\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F64EE3E-CC64-4134-80A7-790F6406F788}|LAMA\\LAMA.csproj|solutionrelative:lama\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\LAMA\\LAMA\\LAMA\\appsettings.json",
+              "RelativeDocumentMoniker": "LAMA\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\LAMA\\LAMA\\LAMA\\appsettings.json",
+              "RelativeToolTip": "LAMA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T21:40:58.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
